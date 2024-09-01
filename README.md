@@ -2,7 +2,7 @@
 
 Amazon clone have eaten my whole week of life.
 I wrote my server on my own aka APIs.
-The server have been write on node js.
+The server have been write on nodejs.
 [reference link](https://www.youtube.com/watch?v=O3nmP-lZAdg&list=PLlzmAWV2yTgCjoZNF3hLX3puYJir9vSQO&index=3)
 
 ## Table of Contents
